@@ -4,10 +4,12 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.md
-  - DataCollection.md
-  - PythonSetup.md
-  - IBLdata.md
-  - Supervision.md
-  - Writing.md
+  - index.md
+  - vision_values.md
+  - getting_started
+  - mentoring.md
+  - lab.md
+  - inlab_experiments.md
+  - online_experiments.md
+  - tips.md
 theme: jekyll-theme-minimal
