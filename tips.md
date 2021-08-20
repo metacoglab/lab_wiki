@@ -15,3 +15,4 @@ Ask good questions; indicate what you’ve tried so far, what your current best 
 * There are two ways of interacting with your peers and colleagues. One is to look to them for useful advice and support; the other is to worry and despair that they're all doing well and you're not. Try to do more of the [former](https://twitter.com/annegalloway/status/438412389319319552?lang=en) than the latter.
 * Take a proactive role in your **career development**.
 * Take the time to explore your interests, to try things out, and to look widely at careers that may suit you. [Ashley Juavinett’s book](https://cup.columbia.edu/book/so-you-want-to-be-a-neuroscientist/9780231190893) is a great start.
+* Always side with the [party parrot](https://cultofthepartyparrot.com/).
