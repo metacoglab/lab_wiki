@@ -16,3 +16,7 @@ The [testing room](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) and [sca
 # Cancellation
 
 If you need to cancel slots for either behavioural testing or scanning please remember to make sure to inform the radiographers as soon as possible, to ensure the resource can be freed up for others. **Please ensure that Steve is kept informed if you need to cancel scanning slots for any reason.**
+
+# Retrieving neuroimaging data
+
+Scanning data is available for collection the next day from Charm. Charm is the data server for the FIL and scans are stored indeﬁnitely. If you are based at the FIL, there should be a shortcut for Charm on your desktop, if not, see the intranet on how to gain remote access. The MetaLab has some [core functions stored on GitHub](https://github.com/metacoglab/MetaLabCore) for retrieving, organising and preprocessing data. Refer to the fMRI guide located there for more speciﬁc details.
