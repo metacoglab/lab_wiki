@@ -20,6 +20,12 @@ On “work” days (i.e. days when you are not on annual leave (A/L)) try to mon
 
 Our lab meetings are usually on a Friday at 1230pm. For now they are held on Zoom, but as soon as is feasible we’ll move back to having in-person meetings with the option to dial in remotely.
 
+# Other meetings
+
+The MetaLab runs the Consciousness Club meetings where guest speakers from a range of disciplines come to discuss all things consciousness- and metacognition-related. These meetings are held at 11am every Wednesday in the 1st Floor Boardroom, and recently on Zoom.
+Every Friday the FIL holds project presentations from our colleagues in the building at 2pm and talks
+from external speakers at the Brain Meetings straight after. These are valuable meetings and it is highly recommended that all MetaLab members come along each week. These take up most of Friday afternoon so plan accordingly!
+
 # Travel and Conferences
 
 Let Steve know if you want to attend a conference, apply for a (travel) grant, or give a talk - the answer is often yes, but it’s good to discuss well in advance, particularly if funding is needed. Steve will make sure that his travel schedule is in the lab calendar, so that you will know when he is around to meet.
