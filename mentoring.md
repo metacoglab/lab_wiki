@@ -18,8 +18,8 @@ rank: 4
 
 # Steve does not expect you to:
 
-1. Respond immediately to emails, especially if sent at unusual times. Email is an asynchronous medium, so set your own boundaries (and other fantastic [PhD tips]((https://twitter.com/annegalloway/status/438412389319319552?lang=en)))!
-2. Work over weekends and holidays. 
+* Respond immediately to emails, especially if sent at unusual times. Email is an asynchronous medium, so set your own boundaries (and other fantastic [PhD tips]((https://twitter.com/annegalloway/status/438412389319319552?lang=en)))!
+* Work over weekends and holidays. 
 
 # Steve aspires and promises to:
 
