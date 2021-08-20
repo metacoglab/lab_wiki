@@ -12,7 +12,7 @@ The lab, and the university, is committed to ensuring a safe, friendly, and acce
 UCL has a very useful and comprehensive Research Staff Code of Conduct that we adhere to, downloadable [here](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/code_of_practice_for_research_staff.pdf). This lays out expectations of both researchers within the lab, and Steve as the PI. Please make yourself familiar with its recommendations.
 We strive for a welcoming and inclusive atmosphere and encourage open and honest intellectual debate, which allows everyone in our local and international communities to do their best work and be respected. Call out misconduct when you see it; you can always approach Steve, or other faculty members in the department, if you want to discuss something confidentially.
 
-#  [Ethics](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/documents/Verstynen_PES.pdf) and open science
+#[Ethics](https://www.cmu.edu/dietrich/psychology/cognitiveaxon/documents/Verstynen_PES.pdf) and open science
 
 
 With this [privilege of doing science](https://www.codykommers.com/post/57-nancy-kanwisher) comes the responsibility of doing it well (or at least, in the best way we can). We’re responsible to taxpayers for getting the most out of their hard-earned pounds and euros; to our academic communities for not misleading each other purposefully or wasting time on dead-ends; and to ourselves for spending our time well.
