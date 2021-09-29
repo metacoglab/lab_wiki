@@ -7,7 +7,7 @@ rank: 6
 
 # Recruiting participants
 
-We typically use UCL’s SONA system for subject recruitment. Before testing your ﬁrst subjects, ask Steve or the lab manager to help you set up a SONA account, and ensure that you have the right ethics documents and consent forms. **No testing or piloting should take place on a new project without ﬁrst discussing with Steve.**
+We typically use UCL’s [SONA system](https://uclpsychology.sona-systems.com/Default.aspx?ReturnUrl=%2f) for subject recruitment. Before testing your ﬁrst subjects, ask Steve or the lab manager to help you set up a SONA account, and ensure that you have the right ethics documents and consent forms. **No testing or piloting should take place on a new project without ﬁrst discussing with Steve.**
 
 # Booking testing rooms and scanning slots
 
@@ -19,4 +19,4 @@ If you need to cancel slots for either behavioural testing or scanning please re
 
 # Retrieving neuroimaging data
 
-Scanning data is available for collection the next day from Charm. Charm is the data server for the FIL and scans are stored indeﬁnitely. If you are based at the FIL, there should be a shortcut for Charm on your desktop, if not, see the intranet on how to gain remote access. The MetaLab has some [core functions stored on GitHub](https://github.com/metacoglab/MetaLabCore) for retrieving, organising and preprocessing data. Refer to the fMRI guide located there for more speciﬁc details.
+Scanning data is available for collection the next day from Charm. Charm is the data server for the FIL and scans are stored indeﬁnitely. If you are based at the FIL, there should be a shortcut for Charm on your desktop, if not, see the intranet on how to gain remote access. The MetaLab has some [core functions stored on GitHub](https://github.com/metacoglab/MetaLabCore) for retrieving, organising and preprocessing data. Refer to our lab's [fMRI analysis guide](https://github.com/metacoglab/MetaLabCore/blob/master/fmri_guide_master.pdf) for more details.
