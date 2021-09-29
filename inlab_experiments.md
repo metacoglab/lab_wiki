@@ -4,6 +4,13 @@ title: Running In-Person Experiments
 rank: 6
 ---
 
+# Planning your experiment
+
+All experiments involving neuroimaging at the WCHN start with a Project Presentation (PP) - a 10 minute overview of the experimental design and planned analyses, which allows colleagues in the department to provide feedback and advice. Before we get to the PP stage, usually we will have done extensive behavioural piloting (either online or in person) and had one or two iterations of the PP within our lab meeting. Once we are happy with our plan, you can book a PP using the form on the WCHN intranet.
+
+Purely behavioural or modeling projects should also be presented at lab meeting early in the phase of the project, to get feedback from other members of the group.
+
+There are also lots of resources on the WCHN intranet that will help you navigate what resources are available for both stimulus presentation and scanning. In particular, the Imaging Support wiki has a wealth of information on the practicalities of scanning at the Centre.
 
 # Recruiting participants
 
