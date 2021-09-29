@@ -17,7 +17,6 @@ rank: 4
 * Attend WCHN Project Presentations on Friday afternoons.
 * Attend seminars within our home departments. I expect everyone to attend at a minimum the WCHN Brain Meeting (Friday pm) and our Consciousness Club seminars (Wednesdays). Beyond this I encourage you to attend the EP seminars (Mondays), the MPC Computational Psychiatry talks (Thursdays) and ICN seminars (Mondays), though recognise that it's not usually possible or wise to spend your whole week listening to talks!
 * Regularly check Slack and respond to messages during work hours - this is our primary means of communication within the group.
-* Ask questions, admit when you are wrong, and know the limits of your knowledge.
 
 Beyond these baseline expectations, I'm always delighted to hear about new data, new results, new papers, new talks, or anything else you're excited about - put it in Slack or pop in for a chat. 
 
