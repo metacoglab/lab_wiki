@@ -4,7 +4,7 @@ title: Mentoring & Supervision
 rank: 4
 ---
 
-## I expect you to:
+# I expect you to:
 
 * Do work you're proud of, and seek the respect of those who you respect.
 * Give yourself time to think and try not to be busy just to seem busy. Amos Tversky tells us that "The secret of doing good research is always to be a little underemployed".
