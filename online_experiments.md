@@ -7,6 +7,8 @@ rank: 7
 
 # Before testing
 
+**Note that all online experiments require ethics - do not collect data without first discussing this with Steve**
+
 1. Decide whether you would like to program your experiment in Gorilla (which has a point-and-click “task builder” but is less flexible than javascript) or javascript / jsPsych (we have a couple of javascript tasks hosted on Gorilla which could be reused on this platform). Eoin Travers has written an [excellent blog post](http://www.eointravers.com/post/web-2/) about the pros and cons of both options. 
 2. Program your experiment and upload it to the server (Gorilla will automatically take care of this for you if you are using it), and make sure you can collect data on yourself / friends / lab members via a browser link before moving forward to recruitment.
 3. Decide where to recruit from: UCL SONA, Prolific or Amazon Mechanical Turk. We find that Prolific gives reliable data, but that MTurk might be more diverse for certain questions (e.g. individual differences in mental health, political attitudes, etc). If you use Prolific, use the lab Prolific account, rather than creating your own Prolific account.
@@ -14,11 +16,9 @@ rank: 7
 # Hosting your task on Gorilla
 
 1. Make an account on Gorilla using your UCL email address
-Email PALS@gorilla.ucl.ac.uk to ask to be added to the institutional subscription (mention that you are a student/postdoc in the MetaLab supervised by Dr. Stephen Fleming)
+Email PALS@gorilla.ucl.ac.uk to ask to be added to the institutional subscription (mention that you are a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming)
 2. Request the number of participant tokens you are going to need for your study
 3. On the “recruitment” tab, select “Change Recruitment Policy” -> Recruitment Service -> Select relevant option (eg Prolific, SONA…). 
-
-
 
 # Hosting your experiments on MindProbe
 
