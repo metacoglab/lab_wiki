@@ -14,6 +14,8 @@ rank: 4
 * Help others, collaborate and share your ideas and skills. 
 * Engage fully in research. Our lab is proud of being passionate about science and I expect everyone to work hard and take an active part in the life of the lab.
 * Attend lab meetings. I expect everyone to attend as many lab meetings as they can, while recognising there are occasions where that won't be possible.
+* Attend WCHN Project Presentations on Friday afternoons.
+* Attend seminars within our home departments. I expect everyone to attend at a minimum the WCHN Brain Meeting (Friday pm) and our Consciousness Club seminars (Wednesdays). Beyond this I encourage you to attend the EP seminars (Mondays), the MPC Computational Psychiatry talks (Thursdays) and ICN seminars (Mondays), though recognise that it's not usually possible or wise to spend your whole week listening to talks!
 * Regularly check Slack and respond to messages during work hours - this is our primary means of communication within the group.
 * Ask questions, admit when you are wrong, and know the limits of your knowledge.
 
