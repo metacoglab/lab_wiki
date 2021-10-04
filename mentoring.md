@@ -4,7 +4,7 @@ title: Mentoring & Supervision
 rank: 4
 ---
 
-# I expect you to:
+### I expect you to:
 
 * Do work you're proud of, and seek the respect of those who you respect.
 * Give yourself time to think and try not to be busy just to seem busy. Amos Tversky tells us that "The secret of doing good research is always to be a little underemployed".
@@ -20,12 +20,12 @@ rank: 4
 
 Beyond these baseline expectations, I'm always delighted to hear about new data, new results, new papers, new talks, or anything else you're excited about - put it in Slack or pop in for a chat. 
 
-# I do not expect you to:
+### I do not expect you to:
 
 * Respond immediately to emails, especially if sent at unusual times. Email is an asynchronous medium, so set your own boundaries (and other fantastic [PhD tips]((https://twitter.com/annegalloway/status/438412389319319552?lang=en)))!
 * Work over weekends and holidays. 
 
-# Steve aspires and promises to:
+### Steve aspires and promises to:
 
 * Provide the best scientific advice he can.
 * Support you in your research and career and help you flourish as a scientist and person.
