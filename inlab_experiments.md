@@ -4,26 +4,26 @@ title: Running In-Person Experiments
 rank: 6
 ---
 
-# Planning your experiment
+### Planning your experiment
 
 All experiments involving neuroimaging at the WCHN start with a Project Presentation (PP) - a 10 minute overview of the experimental design and planned analyses, which allows colleagues in the department to provide feedback and advice. Before we get to the PP stage, usually we will have done extensive behavioural piloting (either online or in person) and had one or two iterations of the PP within our lab meeting. Once we are happy with our plan, you can book a PP using the form on the WCHN intranet.
 
-Purely behavioural or modeling projects should also be presented at lab meeting early in the phase of the project, to get feedback from other members of the group.
+Purely behavioural or modeling projects should also be presented at lab meeting early in the phase of the project, to get feedback from other members of the group. [This](https://psyarxiv.com/tcmvp/) is a useful overview of the things you should be thinking about when designing your first experiment.
 
 There are also lots of resources on the WCHN intranet that will help you navigate what resources are available for both stimulus presentation and scanning. In particular, the Imaging Support wiki has a wealth of information on the practicalities of scanning at the Centre.
 
-# Recruiting participants
+### Recruiting participants
 
 We typically use UCL’s [SONA system](https://uclpsychology.sona-systems.com/Default.aspx?ReturnUrl=%2f) for subject recruitment. Before testing your ﬁrst subjects, ask Steve or the lab manager to help you set up a SONA account, and ensure that you have the right ethics documents and consent forms. **No testing or piloting should take place on a new project without ﬁrst discussing with Steve.**
 
-# Booking testing rooms and scanning slots
+### Booking testing rooms and scanning slots
 
 The [testing room](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) and [scanner](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) diaries can be accessed via the [WCHN homepage](https://www.fil.ion.ucl.ac.uk/) or the FIL [Intranet](http://intranet.fil.ion.ucl.ac.uk/). To book a room, follow the ”How to book Testing Rooms” or the ”How to book Scanning Slots” links on the intranet where you will ﬁnd a link for a template email. Simply ﬁll out the required details and send.
 
-# Cancellation
+### Cancellation
 
 If you need to cancel slots for either behavioural testing or scanning please remember to make sure to inform the radiographers as soon as possible, to ensure the resource can be freed up for others. **Please ensure that Steve is kept informed if you need to cancel scanning slots for any reason.**
 
-# Retrieving neuroimaging data
+### Retrieving neuroimaging data
 
 Scanning data is available for collection the next day from Charm. Charm is the data server for the FIL and scans are stored indeﬁnitely. If you are based at the FIL, there should be a shortcut for Charm on your desktop, if not, see the intranet on how to gain remote access. The MetaLab has some [core functions stored on GitHub](https://github.com/metacoglab/MetaLabCore) for retrieving, organising and preprocessing data. Refer to our lab's [fMRI analysis guide](https://github.com/metacoglab/MetaLabCore/blob/master/fmri_guide_master.pdf) for more details.
