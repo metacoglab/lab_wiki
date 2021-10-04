@@ -19,20 +19,20 @@ With this [privilege of doing science](https://www.codykommers.com/post/57-nancy
 To maximize the usefulness of our science, we must do our work ethically and openly. This means being honest (with ourselves and others), transparent, and always open to learning and improving how we work.
 There are some obvious practical steps we can take to make all this happen:
 
-### Make your work accessible. 
+#### Make your work accessible. 
 We endeavour to publish papers as preprints (on bioRxiv, arXiv, psyArXiv or OSF); we choose open-access journals (in alignment with [Plan S](https://www.coalition-s.org/)); and we use Twitter to write accessible summaries about our findings: [it’ll even help your career](http://dx.doi.org/10.7554/eLife.16800.001). 
 
-### Choose open-source. 
+#### Choose open-source. 
 As a general rule, we aim to choose free / open-source software and code over expensive and proprietary alternatives. In the lab we are a broad church when it comes to programming and software, with different projects requiring a blend of code written in Matlab, R, Python together with the range of probabilistic programming languages that interface with these wrappers (STAN, JAGS, Webppl, etc). We are practical when it comes to these choices of software - we don’t want to reinvent the wheel for the sake of it, as that is a waste of time and resources. This might mean using Matlab more often than we’d like, although Matlab is not universally free (UCL has a blanket license). But if there are alternatives, Steve is always happy to hear about them.  
 In general - keep up with the latest developments, and think about ways to improve the work we do.
 
-### Report transparently. 
+#### Report transparently. 
 A good scientific paper is engaging and interesting to read, but this should never come at the expense of transparency in report. For example, unexpected findings and post-hoc changes to the analysis pipeline should be presented to the reader as what they are. Whenever feasible we pre-register our study plans and hypotheses before data collection. Later, when we write about interesting and surprising aspects of the data, we have our pre-registration to remind us, and the readers too, of what we expected to find before seeing the data.  
 
-### Code and data sharing.
+#### Code and data sharing.
 We are committed to being open in our sharing of resources and data with others. Within the lab, you should share code and data with whoever you like, and you should aim to help others where possible with problems you've encountered and solved yourself in the past. Outside the lab, please check with Steve before sharing code and data with others. Generally, we will aim to make the code and data freely available around the time of publishing the associated paper, but there may be some exceptions to this general rule, for instance if the data cannot be anonymised.
 
-### Reproducible coding. 
+#### Reproducible coding. 
 Reproducible research is an essential part of doing good science, and an expectation for all projects in the lab. For results to be reproducible, the analysis pipeline must be organised and well documented, and have a clear link to the anonymized data files (not preprocessed or otherwise modified in any other way). This means keeping good notes throughout the design, data collection and analysis process, so that you can document the methods as part of the paper. It also means a healthy amount of commenting of your code.
 
 Towards the end of a project, and before submitting a paper, there is an expectation that all relevant code to reproduce key results will be reviewed and uploaded to the [lab's Github](https://github.com/metacoglab). It is much easier to do this when you have been keeping track of the analysis pipeline throughout the lifecycle of the project.
