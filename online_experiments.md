@@ -5,7 +5,7 @@ rank: 7
 ---
 
 
-# Before testing
+### Before testing
 
 **Note that all online experiments require ethics - do not collect data without first discussing this with Steve**
 
@@ -13,14 +13,14 @@ rank: 7
 2. Program your experiment and upload it to the server (Gorilla will automatically take care of this for you if you are using it), and make sure you can collect data on yourself / friends / lab members via a browser link before moving forward to recruitment.
 3. Decide where to recruit from: UCL SONA, Prolific or Amazon Mechanical Turk. We find that Prolific gives reliable data, but that MTurk might be more diverse for certain questions (e.g. individual differences in mental health, political attitudes, etc). If you use Prolific, use the lab Prolific account, rather than creating your own Prolific account.
 
-# Hosting your task on Gorilla
+### Hosting your task on Gorilla
 
 1. Make an account on Gorilla using your UCL email address
 Email PALS@gorilla.ucl.ac.uk to ask to be added to the institutional subscription (mention that you are a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming)
 2. Request the number of participant tokens you are going to need for your study
 3. On the “recruitment” tab, select “Change Recruitment Policy” -> Recruitment Service -> Select relevant option (eg Prolific, SONA…). 
 
-# Hosting your experiments on MindProbe
+### Hosting your experiments on MindProbe
 
 1. Install a [local JATOS instance](https://www.jatos.org/Installation.html) on your computer and [familiarize yourself with it](http://www.jatos.org/Get-started.html).
 2. Code your experiment so that it runs on your browser. A good way to start is by downloading an example study from the [JATOS gallery](https://www.jatos.org/Example-Studies.html), get it to work on your machine, and then slowly adapt it until it matches the experiment that you had in mind. An alternative is to start with our [MetaLab online study template](https://github.com/metacoglab/lab_wiki/blob/master/metalab_experiment_template.jzip), which already includes the lab’s information sheet and consent form. Good resources on how to build online experiments are Eoin Travers’ blog posts 3 and 4.
@@ -29,7 +29,7 @@ Email PALS@gorilla.ucl.ac.uk to ask to be added to the institutional subscriptio
 5. In the remote server, make the necessary adaptations according to whether you are recruiting from Prolific or MTurk.
 6. Start a new batch for your experiment and enable the ‘General Multiple Worker’ option in the batch manager. This link can now be used to recruit participants for your study!
 
-# Recruiting from Prolific
+### Recruiting from Prolific
 
 1. Sign into the lab Prolific account (ask Steve for the login details)  	
 2. Click on ‘New project’ and add the details. Label your project in an easy-to-read manner (the “project name” field), with format Surname_Project_MonthYear e.g. Fleming_ConfidenceTask_Jan2020. 
@@ -38,13 +38,13 @@ Email PALS@gorilla.ucl.ac.uk to ask to be added to the institutional subscriptio
 5. Basic demographic data can be downloaded by clicking ‘Download Export’ under ‘More’. This includes participants’ age, nationality, gender, and time taken to complete the study, among other fields.
 6. Prolific allows adding participants to a study in an incremental manner. This is useful for starting small and doing data-quality checks, as well as for avoiding having too many participants performing the study at the same time. It’s often not a bad idea to set the initial required number of participants to be 1, just to see that everything is working properly. Adding new participants can then be done from the study page, under ‘action’>’increase places’.
 
-# During data collection
+### During data collection
 
 1. Before you actually run the task, give everybody a heads up via our #online_recruitment slack group to make sure you won’t be using funds someone else is expecting to use.
 2. Throughout your recruitment period, keep an eye on both the Prolific message box and the Metalab UCL email account. You will get lots of Prolific messages. 
 3. It may be that someone messages you saying that they started the experiment but could not get a completion code (what they need to insert in Prolific/MTurk to get paid). It is important to check whether this is actually the case (i.e. whether you have their data) because people may try to get money from you without doing the task. If you are unsure whether a claim is legitimate, err on the side of paying the baseline payment.
 
-# Tips and hints
+### Tips and hints
 
 * A good time to launch data collection is in the morning between 9-11 am (so that you have the rest of the day for participants to submit their responses and be able to process payments on the whole batch at once)
 * For large studies, planning on collection N=40 per day is a reasonable number to aim for. To add subjects incrementally in Prolific, click ‘increase places’ on your study page (no need to start a new study for each new batch!). 
