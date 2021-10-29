@@ -30,8 +30,8 @@ Beyond these baseline expectations, I'm always delighted to hear about new data,
 * Provide the best scientific advice he can.
 * Support you in your research and career and help you flourish as a scientist and person.
 * Respond to questions and give feedback in a timely manner.
-  - I aim to respond to emails or Slack messages the same or next day. If something is urgent (e.g. a problem with data collection, a sudden deadline for a grant application) he will usually respond more quickly.
-  - I typically meet with everyone weekly or biweekly; these meetings are in the lab calendar. At other times in the week feel free to drop a Slack message for a quick query. On Mondays I might not reply for a while as this is the day I keep free for my own coding projects.
+  - I aim to respond to emails or Slack messages the same or next day. If something is urgent (e.g. a problem with data collection, a sudden deadline for a grant application) I will respond as quickly as possible.
+  - I meet with everyone in the lab weekly or biweekly; these meetings are in the lab calendar. At other times in the week feel free to drop a Slack message for a quick query. On Mondays I might not reply for a while as this is the day I keep free for my own coding projects.
   - Papers require more time because they need extended blocks of time in the day to think and write. The aim is to get papers back to you within 2 weeks, but often it's quicker. If you don’t hear back after that, please do chase as occasionally things do get waylaid.
   - If you need a letter of reference, or other more substantial feedback (eg on a grant application), please give a heads-up a few weeks in advance (e.g. as soon as you know that you’re applying for something). Steve can then block off time to go over your work and give feedback quickly. 
 * Create a fun and supportive learning environment.
