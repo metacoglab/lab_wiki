@@ -12,6 +12,9 @@ Purely behavioural or modeling projects should also be presented at lab meeting 
 
 There are also lots of resources on the WCHN intranet that will help you navigate what resources are available for both stimulus presentation and scanning. In particular, the Imaging Support wiki has a wealth of information on the practicalities of scanning at the Centre.
 
+### Ethical approval
+The lab and the FIL have broad ethics covering lab and web-based behavioral testing and neuroimaging with healthy adult participants. Before starting any new study ask Steve for the ethics number, consent forms and information sheets for your study. 
+
 ### Recruiting participants
 
 We typically use UCL’s [SONA system](https://uclpsychology.sona-systems.com/Default.aspx?ReturnUrl=%2f) for subject recruitment. Before testing your ﬁrst subjects, ask Steve or the lab manager to help you set up a SONA account, and ensure that you have the right ethics documents and consent forms. **No testing or piloting should take place on a new project without ﬁrst discussing with Steve.**
