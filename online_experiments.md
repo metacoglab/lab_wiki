@@ -16,9 +16,9 @@ rank: 7
 ### Hosting your task on Gorilla
 
 1. Make an account on Gorilla using your UCL email address
-Email PALS@gorilla.ucl.ac.uk to ask to be added to the institutional subscription (mention that you are a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming)
-2. Request the number of participant tokens you are going to need for your study
-3. On the “recruitment” tab, select “Change Recruitment Policy” -> Recruitment Service -> Select relevant option (eg Prolific, SONA…). 
+2. Email pals.gorilla@ucl.ac.uk to ask to be added to the institutional subscription (mention that you are a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming)
+3. Request the number of participant tokens you are going to need for your study
+4. On the “recruitment” tab, select “Change Recruitment Policy” -> Recruitment Service -> Select relevant option (eg Prolific, SONA…). 
 
 ### Hosting your experiments on MindProbe
 
