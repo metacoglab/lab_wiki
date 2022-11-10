@@ -38,6 +38,19 @@ rank: 7
 5. Basic demographic data can be downloaded by clicking ‘Download Export’ under ‘More’. This includes participants’ age, nationality, gender, and time taken to complete the study, among other fields.
 6. Prolific allows adding participants to a study in an incremental manner. This is useful for starting small and doing data-quality checks, as well as for avoiding having too many participants performing the study at the same time. It’s often not a bad idea to set the initial required number of participants to be 1, just to see that everything is working properly. Adding new participants can then be done from the study page, under ‘action’>’increase places’.
 
+### Recruiting from UCL Psychology Subject Pool
+
+1. Make a Participant account on [the SONA website](https://uclpsychology.sona-systems.com/Default.aspx?ReturnUrl=%2f) using your UCL email.
+2. Email pals.subjectpool@ucl.ac.uk to ask for a Researcher account (be sure to mention the username you selected for your Participant account, and also explain who you are i.e., that you are a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming).
+3. Once your request is approved, you will receive an email with login details. But note that the PALS SONA email is only monitored one day per week, so account requests will take time to process.
+4. When you log in, you will be prompted to choose between logging on as a Participant or as a Researcher -- pick 'Researcher'.   	
+5. Click on ‘Add New Study’, select 'Online External Study' for credit, and add the details. 
+6. Target 1 credit per hour of participation (0.25, 0.5 and 0.75 credits are possible, e.g. 0.5 credits for 30 minutes of participation). Remember to select 'Yes' for 'Approved?' and 'Active Study?', so that your study will show up on the list of available studies to participants).
+7. Once you have added the study, you can add prescreen restrictions such as normal eyesight (Study Menu > View/Modify Restrictions)
+8. To recruit participants, add a timeslot (Study Menu > View/Administer Time Slots > Add a Timeslot), select the final participation date and hour, and how many participants you'd like to recruit. You can start with one or two participants to make sure everything is working correctly, and then later recruit additional ones by adding new timeslots or modifying existing ones to increase the number of places (Study Menu > View/Administer Time Slots > Modify > Update Timeslot). There is no limit on how many participants you can recruit, but it will take a few days for the slots to fill up.
+9. There is a helpful option in SONA to automatically append your participants' SONA ids to the study URL, so that you may record it without prompting participants to enter it. Simply add at the end of your Study URL "?sona_id=%SURVEY_CODE%". See these helpful pages for more info on integrating [SONA and JsPsych](https://www.sona-systems.com/help/jspsych/) or [SONA and Jatos](https://osdoc.cogsci.nl/3.3/manual/osweb/sonasystems/) or [SONA and Gorilla](https://www.sona-systems.com/help/gorillasc/) or [other platforms](https://www.sona-systems.com/help/)
+10. You may grant credits automatically by redirecting your participants to SONA at the end of the experiment. Get the completion URL listed on the Study Menu (under Completion URLs, client side), and replace 'XXX' with each participant's SONA id.
+
 ### During data collection
 
 1. Before you actually run the task, give everybody a heads up via our #online_recruitment slack group to make sure you won’t be using funds someone else is expecting to use.
