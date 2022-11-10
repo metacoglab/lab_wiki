@@ -41,7 +41,7 @@ rank: 7
 ### Recruiting from UCL Psychology Subject Pool
 
 1. Make a Participant account on [the SONA website](https://uclpsychology.sona-systems.com/Default.aspx?ReturnUrl=%2f) using your UCL email.
-2. Email pals.subjectpool@ucl.ac.uk to ask for a Researcher account (be sure to mention the username you selected for your Participant account, and also explain who you are i.e., that you are a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming).
+2. Email pals.subjectpool@ucl.ac.uk to ask for a Researcher account. Be sure to mention the username you selected for your Participant account, and also explain who you are (e.g., a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming).
 3. Once your request is approved, you will receive an email with login details. The PALS SONA email is only monitored one day per week, so account requests will take time to process.
 4. When you log in, you will be prompted to choose between logging on as a Participant or as a Researcher -- pick 'Researcher'.
 5. Click on ‘Add New Study’, select 'Online External Study' for credit, and add the details.
