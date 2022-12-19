@@ -6,7 +6,7 @@ rank: 5
 
 ### The office
 
-The members of our lab sit across multiple sites, each a few minutes walk apart. Some of the team are sat at the Wellcome Centre for Human Neuroimaging, at 12 Queen Square (also called “The FIL”), while others are based in the Dept of Experimental Psychology (EP) at 26 Bedford Way or the Max Planck Centre (MPC) for Computational Psychiatry in Russell Square House. Bedford Way has its own cafe and common room, and both EP and the MPC hold regular seminars of interest to our group. The policy at the FIL is that teams are mixed up, so our group is spread over offices on different floors.
+The members of our lab sit across 3 different sites, each a few minutes walk apart. Some of the team are sat at the Wellcome Centre for Human Neuroimaging, at 12 Queen Square (also called “The FIL”), while others are based on the 5th floor of the Dept of Experimental Psychology (EP) at 26 Bedford Way (also called the Institute of Behavioural Neuroscience) or the Max Planck Centre (MPC) for Computational Psychiatry in Russell Square House. Bedford Way has its own cafe and common room, and both EP and the MPC hold regular seminars of interest to our group.
 
 ### Hours
 
@@ -16,11 +16,12 @@ On “work” days (i.e. days when you are not on annual leave (A/L)) everyone i
 
 ### Lab meetings
 
-Our lab meetings are usually on a Friday at 1230pm. For now they are held on Zoom, but as soon as is feasible we’ll move back to having in-person meetings with the option to dial in remotely.
+Our lab meetings are usually on a Tuesday at 1030am, and held in the seminar room at the Max Planck Centre, 2nd floor of 10-11 Russell Square House. These meetings are hybrid and a Zoom link is posted in the #lab-meetings channel on Slack for those dialing in remotely.
 
 ### Other meetings
 
-The MetaLab runs the Consciousness Club meetings where guest speakers from a range of disciplines come to discuss all things consciousness- and metacognition-related. These meetings are held at 11am every Wednesday in the 1st Floor Boardroom, and recently on Zoom.
+The MetaLab runs the Consciousness Club meetings where guest speakers from a range of disciplines come to discuss all things consciousness- and metacognition-related. These meetings are held at 11am every Wednesday on Zoom.
+
 Every Friday at 2pm the WCHN holds "Project Presentations" - presentations of future projects that will use Centre resources. This is a great opportunity to see what other groups are planning, and to learn about issues affecting both experimental design and neuroimaging data acquisition and analysis.
 Immediately after Project Presentations at 315pm there is the "Brain Meeting" seminar, with a mix of both internal and external spakers. These are valuable meetings and all MetaLab members are expected to attend each week during term time. These can take up most of Friday afternoon so plan accordingly!
 
