@@ -8,6 +8,7 @@ rank: 8
 * **Be organized**. Stick to a consistent and clear organisation scheme for your data (e.g. [this one](https://bids.neuroimaging.io/)); keep your code version controlled on GitHub; comment your analysis workflows; organize code reviews; learn about best practices in software development. Your future self will thank you.
 * Know the limits of your knowledge and **don’t be afraid to ask questions**. Admit when you are wrong, or made a mistake; be honest with yourself, and with your peers and colleagues - never be tempted to fudge results.
 * Examine your assumptions and expect to be wrong. A lot.
+* Be aware that many projects can take a long time to do well - in our experience, ~2 years from idea to publication is typical.
 * Knowing how long to keep trying something, and when to ask for help, is a tremendously useful skill. A useful guideline: if you know what next steps to take (keywords to Google, instructions to follow, control analyses to run) then take them first. If you can no longer identify how to move forward, don’t waste time being stuck and ask for help or advice. Where possible, ask the open Slack channels rather than only Steve, so that advice can be effectively crowdsourced.
 Ask good questions; indicate what you’ve tried so far, what your current best answer is, and what specific guidance you need.
 * Perfect coding is as unrealistic as perfect prose - we all make mistakes. If you discover an error in your experiment or analysis, make sure to tell Steve as soon as possible - he will always be understanding and never mad.
