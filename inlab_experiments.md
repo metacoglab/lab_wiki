@@ -22,6 +22,7 @@ We typically use UCL’s [SONA system](https://uclpsychology.sona-systems.com/De
 ### Booking testing rooms and scanning slots
 
 The [testing room](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) and [scanner](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) diaries can be accessed via the [WCHN homepage](https://www.fil.ion.ucl.ac.uk/) or the FIL [Intranet](http://intranet.fil.ion.ucl.ac.uk/). To book a room, follow the ”How to book Testing Rooms” or the ”How to book Scanning Slots” links on the intranet where you will ﬁnd a link for a template email. Simply ﬁll out the required details and send.
+Book [cubicles on the 3rd floor](https://ug-bookings.pals.ucl.ac.uk/) of 26 Bedford way here and contact [Steve Williams](steve.williams@ucl.ac.uk) at PALS IT to set up an account if you need to use one of the PCs provided - if you don't already have one.
 
 ### Cancellation
 
