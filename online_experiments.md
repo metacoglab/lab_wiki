@@ -23,7 +23,7 @@ rank: 7
 ### Hosting your experiments on MindProbe
 
 1. Install a [local JATOS instance](https://www.jatos.org/Installation.html) on your computer and [familiarize yourself with it](http://www.jatos.org/Get-started.html).
-2. Code your experiment so that it runs on your browser. A good way to start is by downloading an example study from the [JATOS gallery](https://www.jatos.org/Example-Studies.html), get it to work on your machine, and then slowly adapt it until it matches the experiment that you had in mind. An alternative is to start with our [MetaLab online study template](https://github.com/metacoglab/lab_wiki/blob/master/metalab_experiment_template.jzip), which already includes the lab’s information sheet and consent form. Good resources on how to build online experiments are Eoin Travers’ blog posts 3 and 4.
+2. Code your experiment so that it runs on your browser. A good way to start is by downloading an example study from the [JATOS gallery](https://www.jatos.org/Example-Studies.html), get it to work on your machine, and then slowly adapt it until it matches the experiment that you had in mind. An alternative is to start with our [MetaLab online study template](https://github.com/metacoglab/lab_wiki/blob/master/metalab_experiment_template.jzip), which already includes the lab’s information sheet and consent form (always double-check you have the most up-to-date versions). Good resources on how to build online experiments are Eoin Travers’ blog posts 3 and 4.
 3. Don’t forget to add the necessary information sheet and informed consent pages as the first components of your experiment. The latest versions can be found in the lab’s Dropbox.
 4. Deploy the study to the remote server, following the instructions [here](https://www.jatos.org/Deploy-to-a-server-installation.html). We use MindProbe: a free server for online experiments. This means that all of the data collected from your participants in prolific will be stored on MindProbe’s server, until downloaded to your local storage. To access the server, you will first need to create an account (follow the steps described here: https://mindprobe.eu/). You can then log into JATOS from mindprobe.eu with your assigned credentials. If you use Gorilla, they will take care of hosting your experiment for you.
 5. In the remote server, make the necessary adaptations according to whether you are recruiting from Prolific or MTurk.
@@ -41,7 +41,7 @@ rank: 7
 ### During data collection
 
 1. Before you actually run the task, give everybody a heads up via our #online_recruitment slack group to make sure you won’t be using funds someone else is expecting to use.
-2. Throughout your recruitment period, keep an eye on both the Prolific message box and the Metalab UCL email account. You will get lots of Prolific messages. 
+2. Throughout your recruitment period, keep an eye on the Prolific message box. You will get lots of Prolific messages. 
 3. It may be that someone messages you saying that they started the experiment but could not get a completion code (what they need to insert in Prolific/MTurk to get paid). It is important to check whether this is actually the case (i.e. whether you have their data) because people may try to get money from you without doing the task. If you are unsure whether a claim is legitimate, err on the side of paying the baseline payment.
 
 ### Tips and hints
@@ -52,7 +52,7 @@ rank: 7
 * If you can be present while they are doing your experiment, you can often respond to a message and salvage a participant who would have aborted. You can never reduce the number of participants. This means that if you reject some participants, their places will be recycled. This can lead to you having more participants than you meant to.  If it’s all going badly, instead of increasing the number of participants, it is possible to finish your present experiment and create a new version of the experiment which excludes your previous participants from taking part, meaning you can merge the data sets if all other things are OK.
 * **IMPORTANT: Let Steve know about any subject complaints ASAP!**
 
-### Recruiting from UCL Psychology Subject Pool
+### Recruiting from the UCL Psychology Subject Pool
 
 1. Make a Participant account on [the SONA website](https://uclpsychology.sona-systems.com/Default.aspx?ReturnUrl=%2f) using your UCL email.
 2. Email pals.subjectpool@ucl.ac.uk to ask for a Researcher account. Be sure to mention the username you selected for your Participant account, and also explain who you are (e.g., a student/postdoc in the MetaLab supervised by Prof. Stephen Fleming).

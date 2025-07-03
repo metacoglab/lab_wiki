@@ -22,12 +22,11 @@ We typically use UCL’s [SONA system](https://uclpsychology.sona-systems.com/De
 ### Booking testing rooms and scanning slots
 
 The [testing room](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) and [scanner](http://intranet.fil.ion.ucl.ac.uk/bookings/week.php) diaries can be accessed via the [FIL homepage](https://www.fil.ion.ucl.ac.uk/) or the FIL [Intranet](http://intranet.fil.ion.ucl.ac.uk/). To book a room, follow the ”How to book Testing Rooms” or the ”How to book Scanning Slots” links on the intranet where you will ﬁnd a link for a template email. Simply ﬁll out the required details and send.
-Book [cubicles on the 3rd floor](https://ug-bookings.pals.ucl.ac.uk/) of 26 Bedford way here and contact [Steve Williams](steve.williams@ucl.ac.uk) at PALS IT to set up an account if you need to use one of the PCs provided - if you don't already have one.
 
 ### Cancellation
 
-If you need to cancel slots for either behavioural testing or scanning please remember to make sure to inform the radiographers as soon as possible, to ensure the resource can be freed up for others. **Please ensure that Steve is kept informed if you need to cancel scanning slots for any reason.**
+If you need to cancel slots for either behavioural testing or scanning please remember to make sure to inform the radiographers as soon as possible, to ensure the resource can be freed up for others. **Please ensure that Steve is kept informed if you need to cancel scanning slots for any reason, as there are considerable cost implications.**
 
 ### Retrieving neuroimaging data
 
-Scanning data is available for collection the next day from Charm. Charm is the data server for the FIL and scans are stored indeﬁnitely. If you are based at the FIL, there should be a shortcut for Charm on your desktop, if not, see the intranet on how to gain remote access. The MetaLab has some [core functions stored on GitHub](https://github.com/metacoglab/MetaLabCore) for retrieving, organising and preprocessing data. Refer to our lab's [fMRI analysis guide](https://github.com/metacoglab/MetaLabCore/blob/master/fmri_guide_master.pdf) for more details.
+Scanning data is available for collection the next day from Charm. Charm is the data server for the FIL and scans are stored indeﬁnitely (see the intranet on how to gain remote access). The MetaLab has some [core functions stored on GitHub](https://github.com/metacoglab/MetaLabCore) for retrieving, organising and preprocessing data. Refer to our lab's [fMRI analysis guide](https://github.com/metacoglab/MetaLabCore/blob/master/fmri_guide_master.pdf) for more details.
