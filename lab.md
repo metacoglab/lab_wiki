@@ -6,13 +6,11 @@ rank: 5
 
 ### The office
 
-The members of our lab sit across 3 different sites, each a few minutes walk apart. Most of the team are sat at the ICN or 26 Bedford Way. A few people are based at the Max Planck Centre (MPC) for Computational Psychiatry in Russell Square House. EP, the ICN, the FIL and the MPC all hold regular seminars of interest to our group.
+The members of our lab sit across 3 different sites, each a few minutes walk apart. Most of the team are sat at the ICN. Some people are based either at the Department of Experimental Psychology, 26 Bedford Way (EP) or at the Max Planck Centre (MPC) for Computational Psychiatry in Russell Square House. EP, the ICN, the FIL and the MPC all hold regular seminars of interest to our group.
 
 ### Hours
 
-Being around the lab builds camaraderie, ensures we’re always learning from and helping each other, and sparks ideas that you usually wouldn’t have by staying home. However a beneﬁt of academia is that the hours and potential for remote working is much more ﬂexible than a regular oﬃce job. This is especially true post-Covid when there has been a natural shift to more regular home working and/or hybrid meetings. **We expect everyone to be on site on Tuesdays (for lab meetings) and Fridays (for FIL Project Presentations and Brain Meetings).** On days when there are no lab meetings / Brain Meetings / project presentations, then working from home those days is an option - please keep an eye on the lab calendar and email announcements to plan your week. If there is a reason you need to dial in remotely for these meetings, please let Steve know in advance.
-
-There is often tea and cake at the FIL after the Brain Meeting, which is a nice chance to socialise with other groups using neuroimaging. We will also often go for a lab drink at the Queens Larder around 5pm on a Friday.
+Being around the lab builds camaraderie, ensures we’re always learning from and helping each other, and sparks ideas that you usually wouldn’t have by staying home. However a beneﬁt of academia is that the hours and potential for remote working is much more ﬂexible than a regular oﬃce job. This is especially true post-Covid when there has been a natural shift to more regular home working and/or hybrid meetings. **We expect everyone to be on site on Tuesdays (for lab meetings) and at least 1-2 other days per week** Please keep an eye on the lab calendar and email announcements to plan your week. If there is a reason you need to dial in remotely for lab meetings, please let Steve know in advance.
 
 On “work” days (i.e. days when you are not on annual leave (A/L)) everyone is expected to keep in touch with the lab Slack. Slack is our primary medium for all research-related communication. When writing messages to Steve, consider whether others might benefit from the conversation too and post in the relevant open channel (such as #code-tips or #stats).
 
@@ -28,6 +26,8 @@ Outside of this, Steve's door is always open and he is keen for people to drop b
 
 ### Other meetings
 
+The ICN hosts weekly seminars during term time at 315pm on Mondays in B01. These speakers cover the full range of cognitive neuroscience and ICN GLs rotate responsibility for inviting and hosting the speakers. If there are speakers you would be keen to invite, please let Steve know.
+
 The MetaLab runs the Consciousness Club meetings where guest speakers from a range of disciplines come to discuss all things consciousness- and metacognition-related. These meetings are usually held at 11am every Wednesday on Zoom.
 
 Every Friday at 2pm the FIL holds "Project Presentations" - presentations of future projects that will use neuroimaging resources at 12 Queen Sq. This is a great opportunity to see what other groups are planning, and to learn about issues affecting both experimental design and neuroimaging data acquisition and analysis.
@@ -36,7 +36,7 @@ Immediately after Project Presentations at 315pm there is the "Brain Meeting" se
 
 ### Travel and Conferences
 
-Let Steve know if you want to attend a conference, apply for a (travel) grant, or give a talk - the answer is often yes, but it’s good to discuss well in advance, particularly if funding is needed. Steve will make sure that his travel schedule is in the lab calendar, so that you will know when he is around to meet.
+Let Steve know if you want to attend a conference, apply for a (travel) grant, or give a talk - the answer is often yes, but it’s good to discuss well in advance, particularly if funding is needed. A general rule is that funding for conference attendance requires presenting work you have worked on within the lab, typically when projects are nearing completion. Steve will make sure that his travel schedule is in the lab calendar, so that you will know when he is around to meet.
 
 ### Annual Leave
 
