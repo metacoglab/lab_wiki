@@ -33,10 +33,9 @@ rank: 7
 
 1. Sign into the lab Prolific account (ask Steve for the login details)  	
 2. Click on ‘New project’ and add the details. Label your project in an easy-to-read manner (the “project name” field), with format Surname_Project_MonthYear e.g. Fleming_ConfidenceTask_Jan2020. 
-3. Target £7.50 per hour for each subject inclusive of bonus (if you need the account topping up message Steve on the #online_recruitment Slack channel with the expected number of subjects you are planning to test)
-4. Participants can be paid their bonus manually (by selecting the participant id and clicking Bonus Payment) or in a batch, by clicking ‘Bulk Bonus Payment’ under ‘More’ and pasting in the bonus list in csv format: [subj_id, bonus in pounds]. This can be useful if the bonus can be different for different participants.
-5. Basic demographic data can be downloaded by clicking ‘Download Export’ under ‘More’. This includes participants’ age, nationality, gender, and time taken to complete the study, among other fields.
-6. Prolific allows adding participants to a study in an incremental manner. This is useful for starting small and doing data-quality checks, as well as for avoiding having too many participants performing the study at the same time. It’s often not a bad idea to set the initial required number of participants to be 1, just to see that everything is working properly. Adding new participants can then be done from the study page, under ‘action’>’increase places’.
+3. Participants can be paid their bonus manually (by selecting the participant id and clicking Bonus Payment) or in a batch, by clicking ‘Bulk Bonus Payment’ under ‘More’ and pasting in the bonus list in csv format: [subj_id, bonus in pounds]. This can be useful if the bonus can be different for different participants.
+4. Basic demographic data can be downloaded by clicking ‘Download Export’ under ‘More’. This includes participants’ age, nationality, gender, and time taken to complete the study, among other fields.
+5. Prolific allows adding participants to a study in an incremental manner. This is useful for starting small and doing data-quality checks, as well as for avoiding having too many participants performing the study at the same time. It’s often not a bad idea to set the initial required number of participants to be 1, just to see that everything is working properly. Adding new participants can then be done from the study page, under ‘action’>’increase places’.
 
 ### During data collection
 
