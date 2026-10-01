@@ -4,7 +4,7 @@ title: Getting Started
 rank: 3
 ---
 
-On your ﬁrst morning you will be met by Sarah and/or one of the administration team either at the ICN, MPC or Bedford Way, depending on where your desk will be based. They will arrange for you to have a building induction, introduce you to key people, get your access card and show you to your desk and computer. There are a few things you need to do within your ﬁrst few weeks for both UCL and the lab, see below for a checklist. If there is anything you seem to be missing, please ask Sarah, Steve or senior lab members and we’ll point you in the right direction.
+On your ﬁrst morning you will be met by Sarah and/or one of the administration team at the ICN (or possibly the MPC / Bedford Way, if your desk is based there). They will arrange for you to have a building induction, introduce you to key people, get your access card and show you to your desk and computer. There are a few things you need to do within your ﬁrst few weeks for both UCL and the lab, see below for a checklist. If there is anything you seem to be missing, please ask Sarah, Steve or senior lab members and we’ll point you in the right direction.
 
 ### General checklist:
 
@@ -48,6 +48,7 @@ For most cognitive computational neuroscience, being able to program is also imp
 
 To build a common knowledge base for everyone in the lab, we recommend reading the following theoretical / review papers:
 
+* Towards an integrative neuroscience of metacognition - [Fleming 2026](https://www.nature.com/articles/s41583-026-01081-x)
 * Metacognition and confidence: A review and synthesis - [Fleming 2024](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022423-032425)
 * How to measure metacognition - [Fleming & Lau 2014](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00443/full)
 * Self-evaluation of decision-making: A general Bayesian framework for metacognitive computation - [Fleming & Daw 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178868/)
