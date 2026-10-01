@@ -16,10 +16,6 @@ We recommend reading through this manual, and exploring the links over on the le
 
 For details about our team, research and publications see [metacoglab.org](http://metacoglab.org). The lynchpin of everything that happens in the lab is our lab manager and all-round miracle-worker [Sarah Kalwarowsky](http://metacoglab.org/people). If you've read through this manual and still don't know the answer to your question, then Sarah is the person to ask.
 
-### Have a question?
-![Decision tree](https://github.com/anne-urai/lab_wiki/blob/main/lab_decision_tree.png?raw=true)
-_Adapted from [Jonathan Peelle](https://github.com/jpeelle/peellelab_manual/blob/master/figures/lab_decision_tree.pdf)_
-
 ### Contributing to this wiki
 1. Fork the [repository](https://github.com/metacoglab/lab_wiki).
 2. Clone your own fork to local
