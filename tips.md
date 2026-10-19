@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Additional Tips & Advice
-rank: 8
+rank: 9
 ---
 * Take **ownership of your research project**. You will soon be the resident expert on the topic!
 * Others in the lab, and Steve, are here to guide and advise you, not to be your teacher. In a research project we are all learning and should be happy to be shown to be wrong.
