@@ -11,5 +11,6 @@ include:
   - lab.md
   - inlab_experiments.md
   - online_experiments.md
+  - ai_usage.md
   - tips.md
 theme: jekyll-theme-minimal
