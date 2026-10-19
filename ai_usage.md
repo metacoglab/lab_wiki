@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AI usage
-rank: 3
+rank: 8
 ---
 
 This page documents our current thinking around use of generative AI tools (e.g. LLMs) in the lab (this excludes use of machine learning methods for data analysis, which we use routinely). This landscape is evolving very quickly, and we anticipate the need to keep these guidelines under review.
